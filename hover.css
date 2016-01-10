@@ -37,6 +37,7 @@ h2 {
 body{
     text-align: center;
     background-color: #f8f8f8;
+    width: 100vw;
 }
 
 #wrap {
